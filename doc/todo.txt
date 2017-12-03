@@ -1,0 +1,19 @@
+TODO v0:
++ okno z kolorem
+	http://www.rastertek.com/dx11tut03.html
++ obracający się prostokąt
++ ludek
++ chodzenie ludkiem
++ kamera zza pleców
++ fizyka
++ poziom bardziej 3d
++ skakanie
++ strzelanie pociskami
++ mp
++ hp, umieranie, respawn
++ tabela wyników
+
+
+v?:
++ fullscreen windowed
++ other render adapters
